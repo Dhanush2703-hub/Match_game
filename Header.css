@@ -1,0 +1,32 @@
+.navbar-container {
+  background-color: #2c0e3a;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.website-logo-image {
+  height: 60px;
+  width: 200px;
+}
+.timer-image {
+  height: 40px;
+  width: 40px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.nav-last {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+span {
+  color: #fec653;
+}
+.nav-para {
+  color: white;
+}
