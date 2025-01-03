@@ -1,0 +1,18 @@
+.list-item {
+  color: white;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.button-style-tab {
+  background-color: transparent;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  color: white;
+}
+.m {
+  color: #fec653;
+  text-decoration: underline;
+  text-decoration-color: #fec653;
+}
